@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "527047135966",
+    "project_id": "biteproof-13317",
+    "storage_bucket": "biteproof-13317.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527047135966:android:749a52e754f6afb813284f",
+        "android_client_info": {
+          "package_name": "com.example.biteproof"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT1sJ3lKarBmo_LRghtaCAHvPgew3dwQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
